@@ -11,5 +11,6 @@ Hangman is a popular word guessing game where the player is asked to choose a ca
 ![Hangman2](https://github.com/Roshni260/Hangman-game-using-python/blob/main/Hangman%202.PNG)
 
 #### When the guess is wrong
-![Hangman3](
+![Hangman3](https://github.com/Roshni260/Hangman-game-using-python/blob/main/Hangman%203.PNG)
+
 
