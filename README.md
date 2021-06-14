@@ -5,5 +5,6 @@ Hangman is a popular word guessing game where the player is asked to choose a ca
 
 ## Results:
 #### Gui for choosing categories
-![Hangman1](Hangman 1.png)
+![Hangman1](https://github.com/Roshni260/Hangman-game-using-python/blob/main/Hangman%201.PNG)
+
 
