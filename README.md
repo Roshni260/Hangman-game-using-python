@@ -7,4 +7,9 @@ Hangman is a popular word guessing game where the player is asked to choose a ca
 #### Gui for choosing categories
 ![Hangman1](https://github.com/Roshni260/Hangman-game-using-python/blob/main/Hangman%201.PNG)
 
+#### When the guess is correct
+![Hangman2](https://github.com/Roshni260/Hangman-game-using-python/blob/main/Hangman%202.PNG)
+
+#### When the guess is wrong
+![Hangman3](
 
